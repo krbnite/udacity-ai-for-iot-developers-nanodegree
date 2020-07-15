@@ -1,1 +1,6 @@
 /p01_people-counter/models/tensorflow/
+
+# These models are too big to commit to GitHub
+/p01_people-counter/models/openvino/faster_rcnn_inception_resnet_v2_atrous_coco_2018_01_28.bin
+/p01_people-counter/models/openvino/faster_rcnn_nas_lowproposals_coco_2018_01_28.bin
+/p01_people-counter/models/openvino/faster_rcnn_inception_resnet_v2_atrous_lowproposals_coco_2018_01_28.bin
